@@ -55,7 +55,7 @@ IV. Suba su trabajo a su repositorio de github`
   * Establecer una imagen como fondo de toda la página
   * Centrar los div en la página
   * Centrar todos los elementos en la página
-  * [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
+  * Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
   * Lea sobre flexbox y use flexbox para centrar todos los elementos en la página
 
 ## Ejercicio II
